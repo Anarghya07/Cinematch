@@ -33,21 +33,6 @@ Tools
 Git and GitHub
 Visual Studio Code
 
-Project Structure
-Cinematch/
-│
-├── frontend/
-│   ├── src/
-│   └── public/
-│
-├── backend/
-│   ├── routes/
-│   ├── controllers/
-│   ├── models/
-│   └── server.js
-│
-├── .gitignore
-└── README.md
 
 Installation and Setup
 1. Clone the Repository
